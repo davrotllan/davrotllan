@@ -1,31 +1,19 @@
-![David Rotllan](https://www.abom.com.mx/invex/2019/00-Layouts/01-invex/imagenes/portada-david-rotllan.png)
 
-# Hola, ni nombre es David! 👋🏻
-
-
-## 👨🏻‍💻 Acerca de mí
-
-Apasionado por la tecnología. Actualmente cursando una especialidad en desarrollo frontend en Alura Latam
+# 💫 About Me:
+🔭 Actualmente estoy trabajando en<br>Sitios web corporativos, landing pages, e-commerce y soluciones digitales enfocadas en rendimiento, SEO y experiencia de usuario.<br><br>👯 Busco colaborar en<br>Proyectos de React, desarrollo frontend, productos SaaS, automatización de procesos e implementación de IA en aplicaciones web.<br><br>🤝 Busco ayuda con<br>Arquitecturas escalables, TypeScript avanzado, backend con Node.js e infraestructura cloud.<br><br>🌱 Actualmente estoy aprendiendo<br>Claude Code, flujos de trabajo con IA, desarrollo full-stack y arquitecturas modernas para aplicaciones web.<br><br>💬 Pregúntame sobre<br>React, JavaScript, HTML, CSS, SEO, accesibilidad, rendimiento web, optimización frontend, experiencia de usuario y desarrollo freelance.<br><br>⚡ Dato curioso<br>He ayudado a empresas y profesionales a mejorar su presencia digital mediante desarrollo web, automatización, SEO y soluciones apoyadas por Inteligencia Artificial.
 
 
-## 🔗 Sociales
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davrotllan)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dav_rot_oli)
-[![portfolio](https://img.shields.io/badge/mi_portfolio_en_proceso-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://davidrotllan.myportfolio.com)
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/da_rotllan/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/david-rotllan/) 
 
-## Other Common Github Profile Sections
-👩‍💻 Actualmente me encuentro trabajando en proyectos como freelancer. Estoy buscando empleo como desarrollador frontend, donde pueda utilizar mis habilidades en HTML, CSS y JavaScript para crear interfaces atractivas y funcionales.
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=davrotllan&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=davrotllan&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=davrotllan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-🧠 Actualmente estoy aprendiendo ReactJS y siempre estoy en constante actualización.
+---
+[![](https://komarev.com/ghpvc/?username=davrotllan&icon=2&color=1)](https://visitcount.itsvg.in)
 
-
-
-
-## 🛠 Habilidades
-HTML, CSS, Javascript, Git, Github, Bootstrap, Wordpress, Sass, Tailwind, Vite...
-
-Desarrollador frontend y estudiante autodidacta,  apasionado y dedicado en el desarrollo front-end con más de 3 años de experiencia en la industria. He trabajado en proyectos pequeños y medianos.
-
-Mi fortaleza radica en combinar habilidades técnicas con habilidades blandas efectivas. Soy un comunicador claro y efectivo, capaz de presentar soluciones fáciles de entender para los clientes y compañeros. Además, tengo un enfoque proactivo para la resolución de problemas y siempre estoy dispuesto a encontrar soluciones creativas y efectivas a desafíos.
-
-Soy un colaborador confiable y trabajo bien en equipo, lo que me permite trabajar de manera efectiva con diseñadores, otros desarrolladores y clientes. Tengo una gran pasión por la tecnología y estoy constantemente buscando nuevas oportunidades para mejorar mis habilidades técnicas y mantenerme al día en las últimas tendencias y tecnologías en el desarrollo front-end.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
