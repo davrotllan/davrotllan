@@ -1,5 +1,5 @@
 
-# 💫 About Me:
+# 💫 Sobre mi:
 🔭 Actualmente estoy trabajando en<br>Sitios web corporativos, landing pages, e-commerce y soluciones digitales enfocadas en rendimiento, SEO y experiencia de usuario.<br><br>👯 Busco colaborar en<br>Proyectos de React, desarrollo frontend, productos SaaS, automatización de procesos e implementación de IA en aplicaciones web.<br><br>🤝 Busco ayuda con<br>Arquitecturas escalables, TypeScript avanzado, backend con Node.js e infraestructura cloud.<br><br>🌱 Actualmente estoy aprendiendo<br>Claude Code, flujos de trabajo con IA, desarrollo full-stack y arquitecturas modernas para aplicaciones web.<br><br>💬 Pregúntame sobre<br>React, JavaScript, HTML, CSS, SEO, accesibilidad, rendimiento web, optimización frontend, experiencia de usuario y desarrollo freelance.<br><br>⚡ Dato curioso<br>He ayudado a empresas y profesionales a mejorar su presencia digital mediante desarrollo web, automatización, SEO y soluciones apoyadas por Inteligencia Artificial.
 
 
